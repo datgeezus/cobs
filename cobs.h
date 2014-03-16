@@ -1,5 +1,3 @@
-// Based on https://github.com/jacquesf/COBS-Consistent-Overhead-Byte-Stuffing/blob/master/cobs.h
-
 #ifndef COBS_H
 #define	COBS_H
 
